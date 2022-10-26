@@ -54,14 +54,15 @@ e- SimplePDL-invariants.mtl (extension de l'item a- voir ci-dessus) : transforma
 ---------------------------------------
 Instructions pour la soutenance orale : 
 ---------------------------------------
-L'oral aura lieu le 9/11/2022 à 8h en salle C203 (je vais réserver la salle C205 pour meilleure transition d'un groupe à un autre)
+L'oral aura lieu le 9/11/2022 à 8h en salles C203 et C206. 
 
-Il y a 8 groupes déclarés. Chaque groupe doit faire une démo durant 10 min de son projet sur les machines de l'N7 ou machines perso respectant la même configuration des TPs. Il y aura ensuite une session de questions d'une durée de 5 min. Un tirage au sort identifiera le membre qui présente et celui qui répond. 
+Il y a 8 groupes déclarés. Chaque groupe doit faire une démo durant 10 min de son projet sur les machines de l'N7 ou machines perso respectant la même configuration des TPs. Il y aura ensuite une session de questions d'une durée de 5 min. Un tirage au sort identifiera le membre qui présente et celui qui répond. Chaque groupe doit arriver 5 à 10 min avant l'heure de la soutenance pour bien s'installer et préparer sa présentation à temps. 
 
 
 Il faut bien tester vos machines avant d'arriver en oral. Tout temps perdu pour configurer sa machine et/ou eclipse sera sanctionné par des malus. 
 
 
+Durant la présentation chaque groupe doit faire une demo sur Eclipse afin de montrer la réalisation de toutes les tâches démandées dans le sujet du mini-projet ainsi que tous les délivrables attendus. 
 
 
 ------------------
@@ -70,19 +71,19 @@ Ordre de passage :
 L'ordre de votre passage est le suivant : 
 8h    : 2SN-T-2022-G1, en C203
 
-8h15  : 2SN-T-2022-G2, 
+8h15  : 2SN-T-2022-G2, en C206
 
 8h30  : 2SN-T-2022-G3, en C203
 
-8h45  : 2SN-T-2022-G5
+8h45  : 2SN-T-2022-G5, en C206
 
 9h    : 2SN-T-2022-G6, en C203
 
-9h15  : 2SN-T-2022-G7
+9h15  : 2SN-T-2022-G7, en C206
 
 9h30  : 2SN-T-2022-G8, en C203
 
-9h45  : 2SN-T-2022-G9
+9h45  : 2SN-T-2022-G9, en C206
 
-Fin de soutenances prévue à 10
+Fin de soutenances prévue à 10h
 
