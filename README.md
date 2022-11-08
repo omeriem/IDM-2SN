@@ -1,6 +1,6 @@
 # IDM-2SN - consignes Mini-Projet
 
-Date limite pour remettre le mini-projet est le 8 novembre 12h. 
+Date limite pour remettre le mini-projet est le 8 novembre 19h. 
 
 Le dépot se fera sur github dans le dossier depotMP. 
 
@@ -69,21 +69,22 @@ Durant la présentation chaque groupe doit faire une demo sur Eclipse afin de mo
 Ordre de passage : 
 ------------------
 L'ordre de votre passage est le suivant : 
-8h    : 2SN-T-2022-G1, en C203
 
-8h15  : 2SN-T-2022-G2, en C206
+8h    : 2SN-T-2022-G1, en C203 (Besbasse H., El Marzouki O., El Mendili Y., Bougrea N.)
 
-8h30  : 2SN-T-2022-G3, en C203
+8h15  : 2SN-T-2022-G3, en C202
 
-8h45  : 2SN-T-2022-G5, en C206
+8h30  : 2SN-T-2022-G4, en C203
+
+8h45  : 2SN-T-2022-G5, en C202
 
 9h    : 2SN-T-2022-G6, en C203
 
-9h15  : 2SN-T-2022-G7, en C206
+9h15  : 2SN-T-2022-G7, en C202
 
 9h30  : 2SN-T-2022-G8, en C203
 
-9h45  : 2SN-T-2022-G9, en C206
+9h45  : 2SN-T-2022-G9, en C202
 
 Fin de soutenances prévue à 10h
 
