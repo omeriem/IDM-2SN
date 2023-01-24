@@ -1,15 +1,15 @@
 # IDM-2SN - consignes Mini-Projet
 
-Date limite pour remettre le mini-projet est le 8 novembre 19h. 
+Date limite pour remettre le mini-projet est XXX. 
 
-Le dépot se fera sur github dans le dossier depotMP. 
+Le dépot se fera sur github ou moodle (décision à venir) dans le dossier depotMP. 
 
 
-*) Note  : Format du dossier à déposer dans depotMP : attention le dossier compressé doit s'intituler "2SN-T-2022-G#.zip" où # sera remplacé par le numéro identifiant votre groupe (comme défini dqns le fichier drive) par exemple 2SN-T-2022-G1, etc. 
+*) Note  : Format du dossier à déposer dans depotMP : attention le dossier compressé doit s'intituler "2SN-R-2023-G#.zip" où # sera remplacé par le numéro identifiant votre groupe (comme défini dqns le fichier drive) par exemple 2SN-T-2022-G1, etc. 
 
 
 Détails : 
-Rappel : Il faut déposer un seul et unique dossier compressé et intitulé "2SN-T-2022-G#.zip" (convention imposée) où # est le numéro de votre groupe dans lequel vous êtes inscrits. 
+Rappel : Il faut déposer un seul et unique dossier compressé et intitulé "2SN-R-2023-G#.zip" (convention imposée) où # est le numéro de votre groupe dans lequel vous êtes inscrits. 
 
 
 Le dossier "2SN-T-2022-G#.zip" doit contenir les fichiers suivants (tout est déjà demandé dans le pdf de votre MP précédé par la lettre D, voir votre sujet) :
@@ -54,9 +54,9 @@ e- SimplePDL-invariants.mtl (extension de l'item a- voir ci-dessus) : transforma
 ---------------------------------------
 Instructions pour la soutenance orale : 
 ---------------------------------------
-L'oral aura lieu le 9/11/2022 à 8h en salles C203 et C206. 
+L'oral aura lieu le 20/02/2023 à 8h en salles XXX et YYY. 
 
-Il y a 8 groupes déclarés. Chaque groupe doit faire une démo durant 10 min de son projet sur les machines de l'N7 ou machines perso respectant la même configuration des TPs. Il y aura ensuite une session de questions d'une durée de 5 min. Un tirage au sort identifiera le membre qui présente et celui qui répond. Chaque groupe doit arriver 5 à 10 min avant l'heure de la soutenance pour bien s'installer et préparer sa présentation à temps. 
+Il y a X groupes déclarés. Chaque groupe doit faire une démo durant 10 min de son projet sur les machines de l'N7 ou machines perso respectant la même configuration des TPs. Il y aura ensuite une session de questions d'une durée de 5 min. Un tirage au sort identifiera le membre qui présente et celui qui répond. Chaque groupe doit arriver 5 à 10 min avant l'heure de la soutenance pour bien s'installer et préparer sa présentation à temps. 
 
 
 Il faut bien tester vos machines avant d'arriver en oral. Tout temps perdu pour configurer sa machine et/ou eclipse sera sanctionné par des malus. 
@@ -70,21 +70,21 @@ Ordre de passage :
 ------------------
 L'ordre de votre passage est le suivant : 
 
-8h    : 2SN-T-2022-G1, en C203 (Besbasse H., El Marzouki O., El Mendili Y., Bougrea N.)
+8h    : 2SN-R-2023-G1, en 
 
-8h15  : 2SN-T-2022-G3, en C202
+8h15  : 2SN-R-2023-G3, en 
 
-8h30  : 2SN-T-2022-G4, en C203
+8h30  : 2SN-R-2023-G4, en 
 
-8h45  : 2SN-T-2022-G5, en C202
+8h45  : 2SN-R-2023-G5, en 
 
-9h    : 2SN-T-2022-G6, en C203
+9h    : 2SN-R-2023-G6, en 
 
-9h15  : 2SN-T-2022-G7, en C202
+9h15  : 2SN-R-2023-G7, en 
 
-9h30  : 2SN-T-2022-G8, en C203
+9h30  : 2SN-R-2023-G8, en 
 
-9h45  : 2SN-T-2022-G9, en C202
+9h45  : 2SN-R-2023-G9, en 
 
 Fin de soutenances prévue à 10h
 
