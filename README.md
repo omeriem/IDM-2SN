@@ -1,18 +1,27 @@
-# IDM-2SN - consignes Mini-Projet
+# IDM-2SN - consignes Mini-Projet : 
 
-Date limite pour remettre le mini-projet est XXX. 
+--------------------------------------------------------------Format de livrables----------------------------------------------------------    
+
+
+- Il faut déposer sur moodle un SEUL et UNIQUE dossier compressé et intitulé "2SN-R-2023-#.zip" (convention imposée) où # est le numéro de votre groupe dans lequel vous êtes inscrits. 
+
+- N'attendez jamais le dernier moment pour déposer votre travail. Vous avez avez la possibilité de mettre à jours votre dépot sur moodle. 
+
+--------------------------------------------------------------Dates Limites----------------------------------------------------------------    
+
+- Date limite pour s'inscrire dans un groupe mini-projet est 30/janvier/2023. Un retard d'inscription impliquera un malus dans la notation finale! 
+
+- Date limite pour remettre le méta-modèle PetriNet.ecore et PetriNet.ocl est 06/février/2023 minuit. 
+
+- Date limite pour remettre la version finale du mini-projet est 28/février/2023 minuit. 
 
 Le dépot se fera sur github ou moodle (décision à venir) dans le dossier depotMP. 
 
 
-*) Note  : Format du dossier à déposer dans depotMP : attention le dossier compressé doit s'intituler "2SN-R-2023-G#.zip" où # sera remplacé par le numéro identifiant votre groupe (comme défini dqns le fichier drive) par exemple 2SN-T-2022-G1, etc. 
 
+-------------------------------------------------------------Détails Version Finale--------------------------------------------------------
 
-Détails : 
-Rappel : Il faut déposer un seul et unique dossier compressé et intitulé "2SN-R-2023-G#.zip" (convention imposée) où # est le numéro de votre groupe dans lequel vous êtes inscrits. 
-
-
-Le dossier "2SN-T-2022-G#.zip" doit contenir les fichiers suivants (tout est déjà demandé dans le pdf de votre MP précédé par la lettre D, voir votre sujet) :
+La version finale à déposer le 28/février/2023 doit contenir un UNIQUE dossier appelé "2SN-T-2023-#.zip" doit contenir les fichiers suivants (tout est déjà demandé dans le pdf de votre MP précédé par la lettre D, voir votre sujet) :
 
 
 1)  Partie SimplePDL :
@@ -46,45 +55,9 @@ e- SimplePDL-invariants.mtl (extension de l'item a- voir ci-dessus) : transforma
 
 [Optionnel]: - rapport.pdf : c'est le compte rendu de votre mini-projet. Vous devriez expliquer la réalisation de votre travail : choix pris, difficultés, exemples d'illustration, etc. Le document doit être significatif, simple, et synthétique pour bien comprendre votre travail. 
 
+-------------------------------------------------------------Instructions pour la soutenance orale-----------------------------------------
 
-
-
-
-
----------------------------------------
-Instructions pour la soutenance orale : 
----------------------------------------
 L'oral aura lieu le 20/02/2023 à 8h en salles XXX et YYY. 
 
-Il y a X groupes déclarés. Chaque groupe doit faire une démo durant 10 min de son projet sur les machines de l'N7 ou machines perso respectant la même configuration des TPs. Il y aura ensuite une session de questions d'une durée de 5 min. Un tirage au sort identifiera le membre qui présente et celui qui répond. Chaque groupe doit arriver 5 à 10 min avant l'heure de la soutenance pour bien s'installer et préparer sa présentation à temps. 
-
-
-Il faut bien tester vos machines avant d'arriver en oral. Tout temps perdu pour configurer sa machine et/ou eclipse sera sanctionné par des malus. 
-
-
-Durant la présentation chaque groupe doit faire une demo sur Eclipse afin de montrer la réalisation de toutes les tâches démandées dans le sujet du mini-projet ainsi que tous les délivrables attendus. 
-
-
-------------------
-Ordre de passage : 
-------------------
-L'ordre de votre passage est le suivant : 
-
-8h    : 2SN-R-2023-G1, en 
-
-8h15  : 2SN-R-2023-G3, en 
-
-8h30  : 2SN-R-2023-G4, en 
-
-8h45  : 2SN-R-2023-G5, en 
-
-9h    : 2SN-R-2023-G6, en 
-
-9h15  : 2SN-R-2023-G7, en 
-
-9h30  : 2SN-R-2023-G8, en 
-
-9h45  : 2SN-R-2023-G9, en 
-
-Fin de soutenances prévue à 10h
+Détails à venir plus tard ... 
 
