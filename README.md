@@ -15,10 +15,6 @@
 
 - Date limite pour remettre la version finale du mini-projet est 28/février/2023 minuit. 
 
-Le dépot se fera sur github ou moodle (décision à venir) dans le dossier depotMP. 
-
-
-
 -------------------------------------------------------------Détails Version Finale--------------------------------------------------------
 
 La version finale à déposer le 28/février/2023 doit contenir un UNIQUE dossier appelé "2SN-T-2023-#.zip" doit contenir les fichiers suivants (tout est déjà demandé dans le pdf de votre MP précédé par la lettre D, voir votre sujet) :
