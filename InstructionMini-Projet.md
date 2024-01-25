@@ -9,11 +9,11 @@
 
 --------------------------------------------------------------Dates Limites----------------------------------------------------------------    
 
-- Date limite pour s'inscrire dans un groupe mini-projet est 30/janvier/2023. Un retard d'inscription impliquera un malus dans la notation finale! 
+- Date limite pour s'inscrire dans un groupe mini-projet est 28/janvier/2024. Un retard d'inscription impliquera un malus dans la notation finale! 
 
-- Date limite pour remettre le méta-modèle PetriNet.ecore et PetriNet.ocl est 06/février/2023 minuit. 
+- Date limite pour remettre le méta-modèle PetriNet.ecore et PetriNet.ocl est 09/février/2023 minuit. 
 
-- Date limite pour remettre la version finale du mini-projet est 28/février/2023 minuit. 
+- Date limite pour remettre la version finale du mini-projet est 02/mars/2024 minuit. 
 
 -------------------------------------------------------------Détails Version Finale--------------------------------------------------------
 
@@ -53,7 +53,7 @@ e- SimplePDL-invariants.mtl (extension de l'item a- voir ci-dessus) : transforma
 
 -------------------------------------------------------------Instructions pour la soutenance orale-----------------------------------------
 
-L'oral aura lieu le 20/02/2023 à 8h en salles XXX et YYY. 
+L'oral aura lieu le 05/03/2023 à 14h en salles XXX et YYY. 
 
 Détails à venir plus tard ... 
 
