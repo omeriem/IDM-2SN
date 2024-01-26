@@ -40,7 +40,7 @@ e- SimplePDL-invariants.mtl (extension de l'item a- voir ci-dessus) : transforma
 
 -------------------------------------------------------------Instructions pour la soutenance orale-----------------------------------------
 
-L'oral aura lieu le 27/03/2023 à 14h en salles XXX et YYY.
+L'oral aura lieu le 27/03/2024 à 14h en salles XXX et YYY.
 
 Détails à venir plus tard ...
 
