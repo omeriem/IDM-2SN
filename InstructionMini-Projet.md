@@ -7,8 +7,11 @@ N'attendez jamais le dernier moment pour déposer votre travail. Vous avez avez 
 --------------------------------------------------------------Dates Limites----------------------------------------------------------------
 
 - Date limite pour s'inscrire dans un groupe mini-projet est 28/janvier/2024 mi-nuit. Un retard d'inscription impliquera un malus dans la notation finale!
-  
+
+
 - Date limite pour remettre les méta-modèles simplePDL.ecore et PetriNet.ecore ainsi que les fichiers SimplePDL.ocl et PetriNet.ocl est 11/février/2023 minuit.
+
+
    
 - Date limite pour remettre la version finale du mini-projet est 26/févier/2024 mi-nuit.
 -------------------------------------------------------------Détails Version Finale--------------------------------------------------------
