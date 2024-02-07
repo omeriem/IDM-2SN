@@ -2,8 +2,11 @@
 
 --------------------------------------------------------------Format de livrables----------------------------------------------------------
 
+
 Il faut déposer sur moodle un SEUL et UNIQUE dossier compressé par groupe et intitulé "2SN-R-2024-#.zip" (convention imposée) où # est le numéro de votre groupe dans lequel vous êtes inscrits.
 N'attendez jamais le dernier moment pour déposer votre travail. Vous avez avez la possibilité de mettre à jours votre dépot sur moodle.
+
+
 --------------------------------------------------------------Dates Limites----------------------------------------------------------------
 
 - Date limite pour s'inscrire dans un groupe mini-projet est 28/janvier/2024 mi-nuit. Un retard d'inscription impliquera un malus dans la notation finale!
