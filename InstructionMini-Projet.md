@@ -48,7 +48,23 @@ e- SimplePDL-invariants.mtl (extension de l'item a- voir ci-dessus) : transforma
 
 -------------------------------------------------------------Instructions pour la soutenance orale-----------------------------------------
 
-L'oral aura lieu le 27/03/2024 à 14h en salles XXX et YYY.
+L'oral aura lieu le mardi 27/02/2024 à 14h en C205. 
 
-Détails à venir plus tard ...
+Vous devriez faire une démo durant 10 min de votre projet sur les machines de l'N7 tout en respectant la même configuration des TPs. Il y aura ensuite une session de questions d'une durée de 10 min. Vous devriez arriver tous avant 14h pour préparer votre soutenance : bien s'installer et préparer sa présentation à temps sur l'une des machine de la salle où il y aura l'oral de 14h à 16h (chaque groupe laisse sa présentation prête à démarre sur l'une des machines de la salle). 
+
+
+Il faut bien tester vos machines/soutenance avant d'arriver en oral. Tout temps perdu pour configurer sa machine et/ou eclipse sera sanctionné par des malus. 
+
+
+Durant la présentation vous devriez faire une demo sur Eclipse afin de montrer la réalisation (demo obligée avec des exemples détaillés valides et non valides) de toutes les tâches démandées dans le sujet du mini-projet ainsi que tous les délivrables attendus (voir votre sujet). 
+
+Il est libre (optionnel) à vous de préparer quelques transaprents ou pas. 
+
+L'ordre de passage sera le suivant : 
+- 2SN-R-2024-3 : 14h
+- 2SN-R-2024-1 : 14h20
+- 2SN-R-2024-5 : 14h40
+- 2SN-R-2024-2 : 15h
+- 2SN-R-2024-4 : 15h20
+
 
