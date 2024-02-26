@@ -19,7 +19,7 @@ N'attendez jamais le dernier moment pour déposer votre travail. Vous avez avez 
 - Date limite pour remettre la version finale du mini-projet est 26/févier/2024 mi-nuit.
 -------------------------------------------------------------Détails Version Finale--------------------------------------------------------
 
-La version finale à déposer le 26/février/2023 doit contenir un UNIQUE dossier appelé "2SN-T-2024-#.zip" doit contenir les fichiers suivants (tout est déjà demandé dans le pdf de votre MP précédé par la lettre D, voir votre sujet) :
+La version finale à déposer le 26/février/2023 doit contenir un UNIQUE dossier appelé "2SN-R-2024-#.zip" doit contenir les fichiers suivants (tout est déjà demandé dans le pdf de votre MP précédé par la lettre D, voir votre sujet) :
 
 Partie SimplePDL :
 a- l'ensemble des fichiers générés pour SimplePDL : SimplePDL.ecore, SimplePDL.ocl, SimplePDL.aird, le format png suite à l'export de votre diagramme.
